@@ -1,0 +1,17 @@
+/Users/kcherechecha/RiderProjects/hwJSON/hwJSON/bin/Debug/net6.0/hwJSON
+/Users/kcherechecha/RiderProjects/hwJSON/hwJSON/bin/Debug/net6.0/hwJSON.deps.json
+/Users/kcherechecha/RiderProjects/hwJSON/hwJSON/bin/Debug/net6.0/hwJSON.runtimeconfig.json
+/Users/kcherechecha/RiderProjects/hwJSON/hwJSON/bin/Debug/net6.0/hwJSON.dll
+/Users/kcherechecha/RiderProjects/hwJSON/hwJSON/bin/Debug/net6.0/hwJSON.pdb
+/Users/kcherechecha/RiderProjects/hwJSON/hwJSON/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/kcherechecha/RiderProjects/hwJSON/hwJSON/obj/Debug/net6.0/hwJSON.csproj.AssemblyReference.cache
+/Users/kcherechecha/RiderProjects/hwJSON/hwJSON/obj/Debug/net6.0/hwJSON.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kcherechecha/RiderProjects/hwJSON/hwJSON/obj/Debug/net6.0/hwJSON.AssemblyInfoInputs.cache
+/Users/kcherechecha/RiderProjects/hwJSON/hwJSON/obj/Debug/net6.0/hwJSON.AssemblyInfo.cs
+/Users/kcherechecha/RiderProjects/hwJSON/hwJSON/obj/Debug/net6.0/hwJSON.csproj.CoreCompileInputs.cache
+/Users/kcherechecha/RiderProjects/hwJSON/hwJSON/obj/Debug/net6.0/hwJSON.csproj.CopyComplete
+/Users/kcherechecha/RiderProjects/hwJSON/hwJSON/obj/Debug/net6.0/hwJSON.dll
+/Users/kcherechecha/RiderProjects/hwJSON/hwJSON/obj/Debug/net6.0/refint/hwJSON.dll
+/Users/kcherechecha/RiderProjects/hwJSON/hwJSON/obj/Debug/net6.0/hwJSON.pdb
+/Users/kcherechecha/RiderProjects/hwJSON/hwJSON/obj/Debug/net6.0/hwJSON.genruntimeconfig.cache
+/Users/kcherechecha/RiderProjects/hwJSON/hwJSON/obj/Debug/net6.0/ref/hwJSON.dll
